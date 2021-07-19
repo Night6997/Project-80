@@ -1,0 +1,11 @@
+body{
+    background-color:black;
+    color:gray;
+    text-align:center;
+}
+#buttonSort{
+    display: none;
+}
+.ListDiv{
+    font-size:18px;
+}
